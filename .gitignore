@@ -1,0 +1,34 @@
+# Compiled source build #
+#########################
+*.o
+*.out
+checkers
+play_game
+*.asm
+
+# qt temp files #
+##################
+*.autosave
+
+# vim temp files #
+##################
+*.swp
+*.swo
+*.swn
+*.pyc
+*~
+.ycm*
+
+# time tracker app #
+####################
+.tracker*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
